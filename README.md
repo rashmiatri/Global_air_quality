@@ -1,14 +1,17 @@
 # Global air quality
 
- #### Project Overview  
- #### Problem Statement
- #### Data Source
- #### Tools
- #### Data Cleaning
- #### Data Analysis
- #### Result and Finding 
- #### Limitations
- #### References
+## Table of Contents
+
+ - [Dashboard](#Dashboard)
+ - [Project Overview](#Project-Overview)  
+ - [Problem Statement](#Problem-Statement)
+ - [Data Source](#Data-Source)
+ - [Tools](#Tools)
+ - [Data Cleaning](#Data-Cleaning)
+ - [Data Analysis](#Data-Analysis)
+ - [Result and Finding](#Result-and-Finding) 
+ - [Limitations](#Limitations)
+ - [References](#References)
 
 ### Dashboard 
 ![dashboard](https://github.com/user-attachments/assets/ad116166-774e-4e56-835d-599adc3fcb6e)

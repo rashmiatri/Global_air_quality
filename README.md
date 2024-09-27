@@ -13,17 +13,17 @@
  - [Limitations](#Limitations)
  - [References](#References)
 
-### Dashboard 
+### Dashboard: 
 ![dashboard](https://github.com/user-attachments/assets/ad116166-774e-4e56-835d-599adc3fcb6e)
 
-### Project Overview :
+### Project Overview:
 This project aims to analyze global air quality data from 2023, focusing on pollution levels across various countries and key environmental factors such as humidity, wind speed, and temperature. Insights from this analysis help identify regions with the highest pollution levels, compare air quality between countries, and uncover patterns that may inform environmental policies and actions.
 
 ### Data Source:
 Global Air Quality Dataset (Kaggle)
 ### Tools:
 Microsoft Excel
-### Data Cleaning :
+### Data Cleaning:
 #### Steps followed for cleaning and preparing the data:
 
  - Downloaded the dataset from Kaggle and saved it in an Excel workbook for easier manipulation.
@@ -39,7 +39,7 @@ Microsoft Excel
 
  - Converted data range into a table for structured manipulation and easier creation of pivot tables and charts.
  - Pivot tables and charts were created to facilitate a deep dive into pollutant concentration trends.
-### Data Analysis :
+### Data Analysis:
 This analysis was driven by several key questions:
 
  - What is the air quality in different countries in 2023?
@@ -53,7 +53,7 @@ Additional Analysis Steps :
  - Pivot Tables and Charts: Created pivot tables to summarize data by country, pollutant type, and other relevant variables.
  - Visual Filters and Slicers: Used slicers and filters to enable easy comparison by pollutant type and country, improving the interactivity of the report.
 
-### Results and Findings :
+### Results and Findings:
 The dashboard presents a clear overview of global air quality, helping answer critical questions related to pollution:
 
  - Comparison of air quality across different countries using visualizations such as bar charts and line graphs.
@@ -75,7 +75,7 @@ The dashboard presents a clear overview of global air quality, helping answer cr
 - Dynamic Slicers for filtering data by country, pollutant type, and other variables.
 - These visualizations provide insights that could guide policymakers and environmental organizations in addressing global air quality issues.
 
-### Limitations :
+### Limitations:
 - Mapping Issues: Unable to implement field map visualizations to display geographic data effectively, limiting the ability to see pollution distribution on a global scale.
 
 
@@ -84,7 +84,7 @@ The dashboard presents a clear overview of global air quality, helping answer cr
 - Slicer and Timeline Options for Maps: These were not available for better interaction with geographic data.
 Despite these limitations, the project provides a comprehensive view of air quality data using available Excel functionalities.
 
-### References :
+### References:
 - Kaggle: Global Air Quality Dataset
 - YouTube channels
 - ChatGPT for project guidance
